@@ -1,1 +1,1 @@
-# [Discuss here](../../issues)
+# [Discuss here](../../discussions)
